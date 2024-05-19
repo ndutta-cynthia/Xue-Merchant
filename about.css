@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(231, 240, 237);
+}
+.info {
+  background-color: aliceblue;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-style: normal;
+  margin-top: 2%;
+}
+.heading {
+  margin-left: 35%;
+  background-color: aliceblue;
+  font-size: larger;
+  color: blue;
+}
+.name {
+  margin-left: 35%;
+  font-size: larger;
+}
+.logo img {
+  width: 20%;
+  height: 20%;
+  margin-left: -5%;
+  margin-top: -5%;
+}
+.request{
+    width: 30%;
+    height: 30%;
+}
